@@ -21,7 +21,7 @@ repository               : "Stwyb/Stwyb.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "yubo.png"
   name             : "Yubo Wang"
   pronouns         : # example: "she/her"  
   bio              : "A Phd Student from Aalborg University"
